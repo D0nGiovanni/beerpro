@@ -103,4 +103,11 @@
     <string name="title_activity_myratings">Meine Bewertungen</string>
     <string name="title_activity_mybeers">Meine Biere</string>
     <string name="action_search">Bier suchen</string>
+    <string name="profile_my_beers">Meine Biere</string>
+    <string name="name">Name</string>
+    <string name="profile_ratings">Bewertungen</string>
+    <string name="profile_wishlist">Wunschliste</string>
+    <string name="profile_fridge">Kühlschrank</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="beer_icon">Beer icon</string>
 </resources>
